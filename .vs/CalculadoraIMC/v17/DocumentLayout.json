@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\lucas.rdsantos\\source\\repos\\CalculadoraIMC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{840DE92E-0666-43E8-90D3-D9141908BA59}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\lucas.rdsantos\\source\\repos\\calculadoraimc\\calculadoraimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{840DE92E-0666-43E8-90D3-D9141908BA59}|CalculadoraIMC\\CalculadoraIMC.csproj|c:\\users\\lucas.rdsantos\\source\\repos\\calculadoraimc\\calculadoraimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840DE92E-0666-43E8-90D3-D9141908BA59}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840DE92E-0666-43E8-90D3-D9141908BA59}|CalculadoraIMC\\CalculadoraIMC.csproj|C:\\Users\\lucas.rdsantos\\source\\repos\\CalculadoraIMC\\calculadoraimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{840DE92E-0666-43E8-90D3-D9141908BA59}|CalculadoraIMC\\CalculadoraIMC.csproj|solutionrelative:calculadoraimc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,14 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rdsantos\\source\\repos\\CalculadoraIMC\\CalculadoraIMC\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraIMC\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas.rdsantos\\source\\repos\\CalculadoraIMC\\CalculadoraIMC\\Form1.cs",
+              "RelativeToolTip": "CalculadoraIMC\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:45:52.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lucas.rdsantos\\source\\repos\\CalculadoraIMC\\CalculadoraIMC\\Form1.cs",
               "RelativeDocumentMoniker": "CalculadoraIMC\\Form1.cs",
               "ToolTip": "C:\\Users\\lucas.rdsantos\\source\\repos\\CalculadoraIMC\\CalculadoraIMC\\Form1.cs [Design]",
               "RelativeToolTip": "CalculadoraIMC\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T22:19:05.576Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-18T22:19:05.576Z"
             }
           ]
         }
